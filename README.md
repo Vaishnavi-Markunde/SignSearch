@@ -1,6 +1,6 @@
 
 # Sign Language Search
-Sign language is a powerful tool for communication and connection. With this project, we aim to bridge the gap between the hearing and non-hearing communities, empowering individuals to easily access information and communicate with one another.
+Sign language is a powerful tool for communication and connection. With this project, we aim to bridge the gap between the hearing and non-hearing communities, empowering individuals to easily access information and communicate with one another. <br>
 A python application that allows users to perform a Google search using sign language. The application uses a combination of computer vision and machine learning to recognize and interpret the user's hand gestures, and then sends a request to the Google Search API with the corresponding text. The results of the search are displayed on the screen for the user to browse.
 <br>
 <br>
