@@ -30,8 +30,9 @@ The Sign Language Search application is built using a combination of the followi
 ## Future Work
 
 
+- Creating a desktop/chrome extension via which the user would be able to not only search but type in the documents, mails, chat etc via sign language.
+- A phone extension for better usability.
+- 
 - Adding support for more hand gestures: Currently, the application only supports a limited number of hand gestures. Adding support for more gestures would allow users to search for a wider range of words and phrases.
 - Improving gesture recognition accuracy: The accuracy of the gesture recognition could be improved by training the machine learning model on a larger and more diverse dataset.
 - Adding support for other languages: The application currently only supports English searches. Adding support for other languages would allow users to perform searches in their native language.
-- Creating a desktop/chrome extension via which the user would be able to not only search but type in the documents, mails, chat etc via sign language.
-- A phone extension for better usability.
