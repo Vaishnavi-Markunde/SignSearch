@@ -1,5 +1,6 @@
 
 # Sign Language Search
+Sign language is a powerful tool for communication and connection. With this project, we aim to bridge the gap between the hearing and non-hearing communities, empowering individuals to easily access information and communicate with one another.
 A python application that allows users to perform a Google search using sign language. The application uses a combination of computer vision and machine learning to recognize and interpret the user's hand gestures, and then sends a request to the Google Search API with the corresponding text. The results of the search are displayed on the screen for the user to browse.
 <br>
 <br>
@@ -11,11 +12,12 @@ To use the Sign Language Search application, follow these steps:
 - Position yourself in front of the camera so that your hands are clearly visible.
 - Make a hand gesture corresponding to the letter or word you want to search for. For example, to search for the word "cat", you might make a "C" hand gesture , then "A" hand gesture and "T" with an time period of 2 seconds per gesture.
 - Press 'S' once the desired word is visible on the screen ,the application will recognize your hand gestures and send a search request to the Google Search API.
--The search results will be displayed on the screen for you to browse.
+- The search results will be displayed on the screen for you to browse.
 
 <br>
 <br>
- ## Technology Used
+
+## Technology Used
 The Sign Language Search application is built using a combination of the following technologies:
 
 - Computer vision: To recognize and interpret the user's hand gestures
@@ -24,6 +26,7 @@ The Sign Language Search application is built using a combination of the followi
 - HTML, CSS, and JavaScript: To build the user interface and handle the application logic
 <br>
 <br>
+
 ## Future Work
 There are several ways that the Sign Language Search application could be improved in the future:
 
