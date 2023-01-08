@@ -23,12 +23,12 @@ The Sign Language Search application is built using a combination of the followi
 - Computer vision: To recognize and interpret the user's hand gestures
 - Machine learning: To classify the hand gestures and convert them to text
 - Google Search API: To send search requests and retrieve search results
-- HTML, CSS, and JavaScript: To build the user interface and handle the application logic
+
 <br>
 <br>
 
 ## Future Work
-There are several ways that the Sign Language Search application could be improved in the future:
+
 
 - Adding support for more hand gestures: Currently, the application only supports a limited number of hand gestures. Adding support for more gestures would allow users to search for a wider range of words and phrases.
 - Improving gesture recognition accuracy: The accuracy of the gesture recognition could be improved by training the machine learning model on a larger and more diverse dataset.
